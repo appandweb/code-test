@@ -21,7 +21,7 @@ We will also run checkstyle to see your code matches the code style rules. You c
 
 You are welcome to change any part of the provided code, but you should be ready to explain any changes that you make.
 
-You can use Java or Kotlin as the programming language. Choose the one you prefer for this exercise
+We want you to use Kotlin as the programming language for this test
 
 ## Valuable points:
 
@@ -31,6 +31,7 @@ You can use Java or Kotlin as the programming language. Choose the one you prefe
 - Adding some more fields to your UserDetail screen
 - Clean history. Small, and readable commits
 - Passing only an identifier to UserDetail screen instead of the entire entity. No parcelables or Serializables involved
+- Any third-party libraries or addons you want to add to your code. Feel free to impress us!
 
 ⏰ We don't want you to spend to much time on the Code Test so we tried to keep it short. Anyway, this is an open-ended Code Test, so feel free to take your time.
 
