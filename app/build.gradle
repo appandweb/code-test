@@ -1,5 +1,7 @@
 apply plugin: 'com.android.application'
 apply plugin: 'checkstyle'
+apply plugin: 'kotlin-android'
+apply plugin: 'kotlin-android-extensions'
 
 task checkstyle(type: Checkstyle) {
     configFile = rootProject.file('config/checkstyle.xml')
