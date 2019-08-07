@@ -17,7 +17,7 @@ Design a UserDetail screen of your choice to display additional information of t
 We will both read your code and run the app, so please check that your code is clean and you provide a good user experience.
 We will also run checkstyle to see your code matches the code style rules. You can check if your code passes the code style check by writing:
 
-./gradlew checkstyle
+    ./gradlew checkstyle
 
 You are welcome to change any part of the provided code, but you should be ready to explain any changes that you make.
 
