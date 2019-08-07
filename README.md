@@ -21,10 +21,13 @@ We will also run checkstyle to see your code matches the code style rules. You c
 
 You are welcome to change any part of the provided code, but you should be ready to explain any changes that you make.
 
+You can use Java or Kotlin as the programming language. Choose the one you prefer for this exercise
+
 ## Valuable points:
 
-- MVP-based architecture
+- MVP-based architecture with good naming conventions for your classes
 - Delightful UI experience
+- Use a Toolbar for backwards navigation
 - Adding some more fields
 - Clean history. Small, and readable commits
 - Passing only an identifier to UserDetail screen instead of the entire entity. No parcelables or Serializables involved
