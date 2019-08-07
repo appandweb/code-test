@@ -28,7 +28,7 @@ You can use Java or Kotlin as the programming language. Choose the one you prefe
 - MVP-based architecture with good naming conventions for your classes
 - Delightful UI experience
 - Use a Toolbar for backwards navigation
-- Adding some more fields
+- Adding some more fields to your UserDetail screen
 - Clean history. Small, and readable commits
 - Passing only an identifier to UserDetail screen instead of the entire entity. No parcelables or Serializables involved
 
